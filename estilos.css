@@ -12,14 +12,20 @@
 }
 
 p{
-    font-size: 30px;
-    padding: 15%;
+    font-size: 40px;
+    padding: 25%;
+    /* font-style: oblique;
+    width:20px ;
+    height: 80px; */
 }
 
 button{
     font-size: large;
-    padding: 0.7em;
+    padding: 0.75em;
     background-color: blue;
+    /* background: none; */
+    border-radius: 100px;
+    font-style: normal;
 }
 
 #yesBtn{
@@ -27,5 +33,4 @@ button{
 }
 #noBtn{
     position: absolute;
-
 }
