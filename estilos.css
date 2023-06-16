@@ -2,7 +2,8 @@
     margin: 0;
 }
 .contenedor{
-    background-image: url(./1.jpg);
+    background-image: url(./IMG_0465.JPG);
+    /* background-color: rgb(97, 148, 222); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -23,7 +24,7 @@ p{
 button{
     font-size: large;
     padding: 0.75em;
-    background-color: blue;
+    background-color: rgb(255, 0, 255);
     /* background: none; */
     border-radius: 20px;
     font-style: normal;
